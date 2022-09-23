@@ -1,5 +1,5 @@
 <script>
-	import '../../../shared/app.css';
+	import '../../static/css/app.css';
 </script>
 
 <slot />
