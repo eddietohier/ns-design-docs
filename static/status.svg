@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="465px" height="208px" viewBox="0 0 465 208" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18.7,17.3 C19.1,17.7 19.1,18.3 18.7,18.7 C18.5,18.9 18.3,19 18,19 C17.7,19 17.5,18.9 17.3,18.7 L12,13.4 L6.7,18.7 C6.5,18.9 6.3,19 6,19 C5.7,19 5.5,18.9 5.3,18.7 C4.9,18.3 4.9,17.7 5.3,17.3 L10.6,12 L5.3,6.7 C4.9,6.3 4.9,5.7 5.3,5.3 C5.7,4.9 6.3,4.9 6.7,5.3 L12,10.6 L17.3,5.3 C17.7,4.9 18.3,4.9 18.7,5.3 C19.1,5.7 19.1,6.3 18.7,6.7 L13.4,12 L18.7,17.3 Z" id="path-1"></path>
+        <path d="M18.7,17.3 C19.1,17.7 19.1,18.3 18.7,18.7 C18.5,18.9 18.3,19 18,19 C17.7,19 17.5,18.9 17.3,18.7 L12,13.4 L6.7,18.7 C6.5,18.9 6.3,19 6,19 C5.7,19 5.5,18.9 5.3,18.7 C4.9,18.3 4.9,17.7 5.3,17.3 L10.6,12 L5.3,6.7 C4.9,6.3 4.9,5.7 5.3,5.3 C5.7,4.9 6.3,4.9 6.7,5.3 L12,10.6 L17.3,5.3 C17.7,4.9 18.3,4.9 18.7,5.3 C19.1,5.7 19.1,6.3 18.7,6.7 L13.4,12 L18.7,17.3 Z" id="path-3"></path>
+        <path d="M18.7,17.3 C19.1,17.7 19.1,18.3 18.7,18.7 C18.5,18.9 18.3,19 18,19 C17.7,19 17.5,18.9 17.3,18.7 L12,13.4 L6.7,18.7 C6.5,18.9 6.3,19 6,19 C5.7,19 5.5,18.9 5.3,18.7 C4.9,18.3 4.9,17.7 5.3,17.3 L10.6,12 L5.3,6.7 C4.9,6.3 4.9,5.7 5.3,5.3 C5.7,4.9 6.3,4.9 6.7,5.3 L12,10.6 L17.3,5.3 C17.7,4.9 18.3,4.9 18.7,5.3 C19.1,5.7 19.1,6.3 18.7,6.7 L13.4,12 L18.7,17.3 Z" id="path-5"></path>
+        <path d="M18.7,17.3 C19.1,17.7 19.1,18.3 18.7,18.7 C18.5,18.9 18.3,19 18,19 C17.7,19 17.5,18.9 17.3,18.7 L12,13.4 L6.7,18.7 C6.5,18.9 6.3,19 6,19 C5.7,19 5.5,18.9 5.3,18.7 C4.9,18.3 4.9,17.7 5.3,17.3 L10.6,12 L5.3,6.7 C4.9,6.3 4.9,5.7 5.3,5.3 C5.7,4.9 6.3,4.9 6.7,5.3 L12,10.6 L17.3,5.3 C17.7,4.9 18.3,4.9 18.7,5.3 C19.1,5.7 19.1,6.3 18.7,6.7 L13.4,12 L18.7,17.3 Z" id="path-7"></path>
+    </defs>
+    <g id="Brand-Guidelines" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Functional-Colors" transform="translate(-593.000000, -270.000000)">
+            <g id="Group" transform="translate(593.000000, 270.000000)">
+                <g id="Group-5">
+                    <rect id="Rectangle" fill="#FFEA80" fill-rule="nonzero" x="0" y="0" width="465" height="40" rx="4"></rect>
+                    <path d="M425,0 L461,0 C463.209139,-4.05812251e-16 465,1.790861 465,4 L465,36 C465,38.209139 463.209139,40 461,40 L425,40 L425,0 Z" id="Rectangle" fill="#FFD567" fill-rule="nonzero"></path>
+                    <text id="Warning,-you’re-abou" font-family="Inter-Regular, Inter" font-size="16" font-weight="normal" fill="#20123A">
+                        <tspan x="67.4545455" y="27">Warning, you’re about to do something bad!</tspan>
+                    </text>
+                    <g id="Assets-/-Icons-/-Misc-/-x" transform="translate(433.000000, 8.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="Assets-/-Icons-/-Misc-Feather-Icons-🎨" stroke-width="1" fill-rule="evenodd" mask="url(#mask-2)" fill="#000000">
+                            <g id="Tokens-/-Color-/-Black">
+                                <rect id="Base" x="0" y="0" width="24" height="24"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-5" transform="translate(0.000000, 56.000000)">
+                    <rect id="Rectangle" fill="#3FE1B0" fill-rule="nonzero" x="0" y="0" width="465" height="40" rx="4"></rect>
+                    <path d="M425,0 L461,0 C463.209139,-4.05812251e-16 465,1.790861 465,4 L465,36 C465,38.209139 463.209139,40 461,40 L425,40 L425,0 Z" id="Rectangle" fill="#2AC3A2" fill-rule="nonzero"></path>
+                    <text id="Great!-You-clicked-t" font-family="Inter-Regular, Inter" font-size="16" font-weight="normal" fill="#20123A">
+                        <tspan x="125.875" y="27">Great! You clicked the thing!</tspan>
+                    </text>
+                    <g id="Assets-/-Icons-/-Misc-/-x" transform="translate(433.000000, 8.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-3"></use>
+                        <g id="Assets-/-Icons-/-Misc-Feather-Icons-🎨" stroke-width="1" fill-rule="evenodd" mask="url(#mask-4)" fill="#000000">
+                            <g id="Tokens-/-Color-/-Black">
+                                <rect id="Base" x="0" y="0" width="24" height="24"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-5" transform="translate(0.000000, 112.000000)">
+                    <rect id="Rectangle" fill="#FF6A75" fill-rule="nonzero" x="0" y="0" width="465" height="40" rx="4"></rect>
+                    <path d="M425,0 L461,0 C463.209139,-4.05812251e-16 465,1.790861 465,4 L465,36 C465,38.209139 463.209139,40 461,40 L425,40 L425,0 Z" id="Rectangle" fill="#FF4F5E" fill-rule="nonzero"></path>
+                    <text id="Whoops.-You-deleted" font-family="Inter-Regular, Inter" font-size="16" font-weight="normal" fill="#20123A">
+                        <tspan x="107.875" y="27">Whoops. You deleted something.</tspan>
+                    </text>
+                    <g id="Assets-/-Icons-/-Misc-/-x" transform="translate(433.000000, 8.000000)">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-5"></use>
+                        <g id="Assets-/-Icons-/-Misc-Feather-Icons-🎨" stroke-width="1" fill-rule="evenodd" mask="url(#mask-6)" fill="#000000">
+                            <g id="Tokens-/-Color-/-Black">
+                                <rect id="Base" x="0" y="0" width="24" height="24"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-5" transform="translate(0.000000, 168.000000)">
+                    <rect id="Rectangle" fill="#0060DF" fill-rule="nonzero" x="0" y="0" width="465" height="40" rx="4"></rect>
+                    <path d="M425,0 L461,0 C463.209139,-4.05812251e-16 465,1.790861 465,4 L465,36 C465,38.209139 463.209139,40 461,40 L425,40 L425,0 Z" id="Rectangle" fill="#0B4CAA" fill-rule="nonzero"></path>
+                    <text id="Click-this-thing." font-family="Inter-Bold, Inter" font-size="16" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="171.414773" y="26">Click this thing.</tspan>
+                    </text>
+                    <g id="Assets-/-Icons-/-Misc-/-x" transform="translate(433.000000, 8.000000)">
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-7"></use>
+                        <g id="Assets-/-Icons-/-Misc-Feather-Icons-🎨" stroke-width="1" fill-rule="evenodd" mask="url(#mask-8)" fill="#FFFFFF">
+                            <g id="Tokens-/-Color-/-Black">
+                                <rect id="Base" x="0" y="0" width="24" height="24"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
