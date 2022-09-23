@@ -5,7 +5,11 @@
 	export function load() {
 		return {
 			status: 307,
-			redirect: '/docs/base-design/colors'
+			redirect: '/docs/design/colors'
 		};
 	}
+</script>
+
+<script>
+	import '../../app.css';
 </script>

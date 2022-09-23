@@ -1,10 +1,13 @@
-import preprocess from 'svelte-preprocess';
 import adapter from '@sveltejs/adapter-auto';
+import preprocess from 'svelte-preprocess';
 
-/** @type {import('@sveltejs/kit').Config} */
 const config = {
 	extensions: ['.svelte', '.md'],
-
+	preprocess: [
+		preprocess({
+			postcss: true
+		})
+	],
 	kit: {
 		adapter: adapter(),
 
@@ -12,13 +15,7 @@ const config = {
 			default: true,
 			entries: ['*']
 		}
-	},
-
-	preprocess: [
-		preprocess({
-			postcss: true
-		})
-	]
+	}
 };
 
 export default config;

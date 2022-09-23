@@ -10,25 +10,28 @@
 </script>
 
 <script>
+	import '../app.css';
+
 	import '@svelteness/kit-docs/client/polyfills/index.js';
 	import '@svelteness/kit-docs/client/styles/normalize.css';
 	import '@svelteness/kit-docs/client/styles/fonts.css';
 	import '@svelteness/kit-docs/client/styles/theme.css';
 	import '@svelteness/kit-docs/client/styles/vars.css';
-	import '../docs.css';
 
 	import { page } from '$app/stores';
-	import SvelteLogo from '$img/ns-logo-horizontal.svg?raw';
+	import SvelteLogo from '$img/svelte-horizontal.svg?raw';
 
-	import { Button, KitDocs, KitDocsLayout, createKitDocsLoader, createSidebarContext } from '@svelteness/kit-docs';
+	import {
+		Button,
+		KitDocs,
+		KitDocsLayout,
+		createKitDocsLoader,
+		createSidebarContext
+	} from '@svelteness/kit-docs';
 
-	/** @type {import('@svelteness/kit-docs').MarkdownMeta | null} */
 	export let meta = null;
-
-	/** @type {import('@svelteness/kit-docs').ResolvedSidebarConfig | null} */
 	export let sidebar = null;
 
-	/** @type {import('@svelteness/kit-docs').NavbarConfig} */
 	const navbar = {
 		links: [{ title: 'Documentation', slug: '/docs', match: /\/docs/ }]
 	};
@@ -36,7 +39,7 @@
 	const { activeCategory } = createSidebarContext(sidebar);
 
 	$: category = $activeCategory ? `${$activeCategory}: ` : '';
-	$: title = meta ? `${category}${meta.title} | NsDocs` : null;
+	$: title = meta ? `${category}${meta.title} | KitDocs` : null;
 	$: description = meta?.description;
 </script>
 
@@ -79,8 +82,7 @@
 	}
 
 	.logo :global(svg) {
-		/* height: 36px; */
-		height: 54px;
+		height: 36px;
 		overflow: hidden;
 	}
 </style>
