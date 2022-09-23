@@ -16,8 +16,9 @@
 		"@svelteness/kit-docs": "^0.24.0",
 		"@tailwindcss/typography": "^0.5.4",
 		"autoprefixer": "^10.4.7",
-		"clsx": "^1.1.0",
 		"daisyui": "^2.22.0",
+		"html-minifier": "^4.0.0",
+		"nano-css": "^5.3.5",
 		"postcss": "^8.4.14",
 		"postcss-load-config": "^4.0.1",
 		"prettier": "^2.6.2",
@@ -30,8 +31,7 @@
 		"vite": "^3.0.0"
 	},
 	"type": "module",
-	"dependencies": {
-		"html-minifier": "^4.0.0",
-		"nano-css": "^5.3.5"
-	}
+    "dependencies": {
+        "clsx": "^1.1.1"
+    }
 }
